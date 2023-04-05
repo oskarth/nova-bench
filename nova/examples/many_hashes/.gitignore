@@ -1,0 +1,7 @@
+node_modules
+*_js
+*_cpp
+*.r1cs
+*.sym
+
+*lock
